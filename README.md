@@ -4,6 +4,12 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-oades)
 
+## Linguagens 
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArqRonaldo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArqRonaldo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
