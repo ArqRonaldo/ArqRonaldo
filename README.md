@@ -1,4 +1,4 @@
-## Olá eu sou Ronaldo de Oliveira 
+## Olá ! Eu sou Ronaldo de Oliveira ✌️
 
 - 🌱 I’m currently learning ...
 
