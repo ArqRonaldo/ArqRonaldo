@@ -1,6 +1,6 @@
 ## Olá ! Eu sou Ronaldo de Oliveira ✌️
 
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente estou aprendendo sobre programação ...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-oades)
 
