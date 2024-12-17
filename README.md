@@ -1,6 +1,6 @@
 ## Olá ! Eu sou Ronaldo de Oliveira ✌️
 
-- 🌱 Atualmente estou aprendendo sobre programação ...
+- 🌱 Atualmente estou aprendendo sobre programação , principalmente Kotlin e esses são os meus Repositórios .
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-oades)
 
