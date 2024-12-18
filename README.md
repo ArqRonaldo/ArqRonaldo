@@ -49,7 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArqRonaldo&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 <!--
 **ArqRonaldo/ArqRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -68,4 +67,5 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 -->
