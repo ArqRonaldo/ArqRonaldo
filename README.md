@@ -1,4 +1,12 @@
-##  👨🏻‍💻 Olá ! Eu sou Ronaldo de Oliveira ✌️
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!✌️+Eu+me+chamo;+Ronaldo+de+Oliveira;+Seja+Bem+Vindo!&center=true&size=30">
+  </a>
+</h1>
+
+
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
@@ -57,4 +65,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -https://github.com/Ileriayo/markdown-badges
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 -->
