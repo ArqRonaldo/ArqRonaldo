@@ -49,9 +49,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArqRonaldo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArqRonaldo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArqRonaldo&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArqRonaldo&layout=donut-vertical&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ArqRonaldo/ArqRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
