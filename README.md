@@ -1,5 +1,9 @@
 ## Olá ! Eu sou Ronaldo de Oliveira ✌️
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
+
 - 🌱 Atualmente estou aprendendo sobre programação , principalmente Kotlin e essas são as tecnologias usadas nos projetos desses Repositórios .
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-oades)
