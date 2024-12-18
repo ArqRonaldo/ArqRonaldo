@@ -12,6 +12,7 @@
 </div>
 
 - 🌱 Atualmente estou aprendendo sobre programação , principalmente Kotlin e essas são as tecnologias usadas nos projetos desses Repositórios .
+  
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
@@ -45,7 +46,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
----
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArqRonaldo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </a>
