@@ -1,4 +1,4 @@
-## Olá ! Eu sou Ronaldo de Oliveira ✌️
+##  👨🏻‍💻 Olá ! Eu sou Ronaldo de Oliveira ✌️
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
