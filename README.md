@@ -1,5 +1,4 @@
-
-![Recorte_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/9ddc0b76-2ab1-475d-8eeb-da1f3bb4fe28)
+![Recorte_B_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/78560354-306b-412d-a604-d39c65fc6e27)
 
 
 <h1 align="center">
