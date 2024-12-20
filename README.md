@@ -1,5 +1,5 @@
-![Recorte_B_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/78560354-306b-412d-a604-d39c65fc6e27)
 
+![Recorte_C_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/a1a85702-1fc1-43bc-a4ce-21efd1b01010)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
