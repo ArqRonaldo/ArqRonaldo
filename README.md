@@ -1,5 +1,5 @@
 
-![cristian-palmer-XexawgzYOBc-unsplash.jpg](https://github.com/ArqRonaldo/ArqRonaldo/raw/main/exemplo.png)
+
 
 
 
