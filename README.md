@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>  
+
+
+
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
