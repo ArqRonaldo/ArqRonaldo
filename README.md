@@ -1,7 +1,5 @@
 
-
-![cristian-palmer-XexawgzYOBc-unsplash](https://github.com/user-attachments/assets/6c602432-278c-4822-bad4-fd43434332c7)
-
+![andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/b3a31378-f4bb-4ce1-95dc-135fd15d8af4)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
