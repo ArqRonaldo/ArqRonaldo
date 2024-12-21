@@ -19,7 +19,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
 
-- 🌱 Atualmente estou aprendendo sobre programação , principalmente Kotlin e essas são as tecnologias usadas nos projetos desses Repositórios .
+- 🌱 Atualmente estou aprendendo sobre programação , principalmente Kotlin e essas são as tecnologias e ferramentas usadas nos projetos desses Repositórios .
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <div align="center">
