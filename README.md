@@ -46,6 +46,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArqRonaldo&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=8&card_width=320" />
 </a>
 
+
 <!--
 **ArqRonaldo/ArqRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
