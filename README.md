@@ -4,7 +4,16 @@
 
 <!-- ![maarten-van-den-heuvel-8EzNkvLQosk_B_-unsplash](https://github.com/user-attachments/assets/b9d4bdf8-ef1f-4f9f-946f-077b4e1e5faf) -->
 
-<!-- ![4motions-werbeagentur-_-S7SI6ZYfA_B_-unsplash](https://github.com/user-attachments/assets/f46dd301-c7c9-4d5b-9a93-75f3b300f7d7) -->
+ ![4motions-werbeagentur-_-S7SI6ZYfA_B_-unsplash](https://github.com/user-attachments/assets/f46dd301-c7c9-4d5b-9a93-75f3b300f7d7) 
+
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://github.com/user-attachments/assets/f46dd301-c7c9-4d5b-9a93-75f3b300f7d7) " alt="Descrição da imagem" style="width:100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    Seu texto do Ronaldo Ronaldo em Markdown aqui
+  </div>
+</div>
+
+
 <!-- ![fabrice-villard-Jrl_B_UQcZqOc-unsplash](https://github.com/user-attachments/assets/1b174475-17c6-45fd-8e4b-c0bbc6b25363)  -->
 <!--   ![fabrice-villard-Jrl_UQcZqOc-unsplash](https://github.com/user-attachments/assets/77122253-65c7-464b-bfe9-8c2ac6296927)  -->
 <!--  ![Recorte_C_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/a1a85702-1fc1-43bc-a4ce-21efd1b01010) -->
