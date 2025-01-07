@@ -1,12 +1,6 @@
 
 ![maarten-van-den-heuvel-8EzNkvLQosk_C_-unsplash](https://github.com/user-attachments/assets/4894e94d-64a6-4ab5-8a29-ec87c25ad925)
 
-<!-- ![maarten-van-den-heuvel-8EzNkvLQosk_B_-unsplash](https://github.com/user-attachments/assets/b9d4bdf8-ef1f-4f9f-946f-077b4e1e5faf) -->
-<!-- ![4motions-werbeagentur-_-S7SI6ZYfA_B_-unsplash](https://github.com/user-attachments/assets/f46dd301-c7c9-4d5b-9a93-75f3b300f7d7) -->
-<!-- ![fabrice-villard-Jrl_B_UQcZqOc-unsplash](https://github.com/user-attachments/assets/1b174475-17c6-45fd-8e4b-c0bbc6b25363)  -->
-<!--   ![fabrice-villard-Jrl_UQcZqOc-unsplash](https://github.com/user-attachments/assets/77122253-65c7-464b-bfe9-8c2ac6296927)  -->
-<!--  ![Recorte_C_andre-benz-PKAW8MQYlU8-unsplash](https://github.com/user-attachments/assets/a1a85702-1fc1-43bc-a4ce-21efd1b01010) -->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!✌️+Eu+me+chamo;+Ronaldo+de+Oliveira;+Seja+Bem+Vindo!&center=true&size=30">
@@ -59,36 +53,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -https://github.com/Ileriayo/markdown-badges
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArqRonaldo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArqRonaldo&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&
-text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-| habilidades   | tecnologias      | sistema operacional   |
-| :---------- | :--------- | :---------------------------------- |
-| git | kotlin | android |
-
-
-| contato | status |
-| :------- | :---------|
-|  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  |   email | eklkl
-
 -->
